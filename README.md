@@ -1,6 +1,6 @@
-# Introducción de JS para React
+# 💻 Repository to handle files from JavaScript Introduction to React Course from Fernando Herrera ⚛️
 
-Si quieren ejecutar el programa, deben de reconstruir los módulos de node, para eso ejecuten el siguiente comando en la carpeta del proyecto
+To run the project, execute:
 
 ```
 npm install
