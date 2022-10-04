@@ -3,5 +3,5 @@
 To run the project, execute:
 
 ```
-npm install
+yarn install
 ```
